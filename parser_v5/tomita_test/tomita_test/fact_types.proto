@@ -1,9 +1,0 @@
-import "base.proto";
-import "articles_base.proto";
-
-message Fact: NFactType.TFact
-{
-	optional string vip_name = 1 [default = "ничего не найдено"];
-	optional string vip_surname = 2 [default = "ничего не найдено"];
-	optional string landmark = 3 [default = "ничего не найдено"];
-}
