@@ -36,7 +36,7 @@
 <h3>Инструменты:</h3>
 <ul>
   <li><i>ЯП: Python 3.12.0</i></li>
-  <li><i>БД: </i></li>
+  <li><i>БД: Yandex cloud </i></li>
   <li><i>Интрефейс: Telegram Bot</i></li>
   <li><i>Среда разработки: Visual Studio Code</i></li>
   <li><i>Фреймворк Apache Spark 3.5.0</i></li>
